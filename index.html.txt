@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Học Tập</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Website học tập</h1>
+    <p>Chào mừng bạn đến với website học tập của tôi</p>
+</body>
+</html>
